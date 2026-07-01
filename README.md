@@ -88,3 +88,8 @@ python web_scraping.py
 ## Internship
 
 This project was developed as part of the **CodeAlpha Internship Program**.
+
+
+## Program Output
+
+![Program Output](output.png)
